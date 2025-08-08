@@ -1,0 +1,6 @@
+opencv-python
+pillow
+pyheif
+matplotlib
+numpy
+tensorflow
